@@ -1,0 +1,4 @@
+importFrom("graphics", "hist", "lines", "points")
+importFrom("stats", "chisq.test", "dnorm", "sd")
+
+exportPattern("^[[:alpha:]]+")
