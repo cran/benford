@@ -26,6 +26,8 @@ LIST countaining:
 Banks WP, Hill DK. 1974. The apparent magnitude of number scaled by random production. J. Exp. Psychol. 102:353–376. http://content.apa.org/journals/xge/102/2/353.
 Benford F. 1938. The Law of Anomalous Numbers. Proc. Am. Philos. Soc. 78:551–572. http://www.jstor.org/stable/984802.
 Gauvrit N, Houillon J-C, Delahaye J-P. 2017. Generalized Benford’s Law as a Lie Detector. Adv. Cogn. Psychol. 13:121–127. http://ac-psych.org/en/download-pdf/id/214.
+Moreau, V. H. 2021. Inconsistencies in countries COVID-19 data
+revealed by Benford’s law. Model Assisted Statistics and Applications 16 (2021) 73–79. DOI 10.3233/MAS-210517
 Nickerson RS. 2002. The production and perception of randomness. Psychol. Rev. 109:330–357. http://doi.apa.org/getdoi.cfm?doi=10.1037/0033-295X.109.2.330.
 Sambridge M, Tkalcic H, Arroucau P. 2011. Benford’s Law of First Digits: From Mathematical Curiosity to Change Detector. Asia Pacific Math. Newsl. 1:1–5.
 }

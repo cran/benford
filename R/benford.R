@@ -1,5 +1,6 @@
 ####################################################
 benford <- function(x, plot=FALSE) {
+  x <- !is.na(x)
   dist <- abs(x)
   if(max(dist)/min(dist) < 1000) {
     print("Benford's analysis perform better when the analyzed data set ranges for more than
