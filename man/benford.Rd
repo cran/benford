@@ -41,7 +41,7 @@ RMSD and likelihood are not formal statistic tests, so it may be evaluated only 
 }
 \examples{
 #Computer generated random data do not conform to the benford law
-result <- benford(seq(1,10000)+rnorm(10000,0,100), FALSE)
+result <- benford(seq(1,10000)+rnorm(10000,0,100), TRUE)
 #Natural data set, countaining the number of daily new cases of COVID-19 in Switzerland
 ##conform to the Benford' Law
 result <- benford(switz.data, TRUE)
