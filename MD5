@@ -1,6 +1,6 @@
-ca4a3d38ffbe3cf325f5fae47705b2ac *DESCRIPTION
+ad715f67fea20e552c13721ff0dbf0ee *DESCRIPTION
 06667e7bae63af15d9dac8eb56535d3d *NAMESPACE
 8e8edd1f6e286d4d2159cb546b0179a5 *R/benford.R
-1fce2359b999d97283787863a3633875 *data/switz.data.rda
+05559b7d52f3d24a323e55d466cc34cd *data/switz.data.rda
 6984c32f439a0ea6ad0cf9c6b003148b *man/benford.Rd
-316eaf8885bc957dc007271b9fc11d78 *man/switz.data.Rd
+dfe9b945c2671643b7939b9ec629746a *man/switz.data.Rd

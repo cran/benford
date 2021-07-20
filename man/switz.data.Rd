@@ -9,7 +9,7 @@ A data set with the number of new cases of COVID-19 in Switzerland. A natural da
 }
 \usage{data("switz.data")}
 \format{
-  A numeric vector with 351 observations.
+  A numeric vector with 383 observations.
   \describe{
     \item{\code{x}}{a numeric vector}
   }
